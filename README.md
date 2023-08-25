@@ -12,7 +12,7 @@ Frontend:
 *  [ ] Knowledge of HTML JS and CSS
 *  [ ] Understanding of Next.js and the React framework
 *  [ ] HTTP requests
-*  [ ] Bootstrap framework
+*  [ ] Bootstrap framework / Tailwind
 
 Here is the git cheat sheet if you guys need it.
 You can also use GitDesktop which is simpler to use.
