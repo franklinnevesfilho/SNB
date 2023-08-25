@@ -13,3 +13,9 @@ Frontend:
 *  [ ] Understanding of the React framework
 *  [ ] HTTP requests
 *  [ ] Bootstrap framework
+
+Here is the git cheat sheet if you guys need it.
+You can also use GitDesktop which is simpler to use.
+
+![Screenshot 2023-08-24 235807](https://github.com/franklinnevesfilho/SNB/assets/88294924/cfb15a9b-a026-4295-bb9c-dd763cf1b496)
+![Screenshot 2023-08-24 235825](https://github.com/franklinnevesfilho/SNB/assets/88294924/511f2546-c9eb-45ff-b825-9d15336279f1)
