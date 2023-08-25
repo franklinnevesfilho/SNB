@@ -10,7 +10,7 @@ Backend:
 
 Frontend:
 *  [ ] Knowledge of HTML JS and CSS
-*  [ ] Understanding of the React framework
+*  [ ] Understanding of Next.js and the React framework
 *  [ ] HTTP requests
 *  [ ] Bootstrap framework
 
