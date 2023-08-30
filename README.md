@@ -29,6 +29,7 @@ number. Establish your versioning scheme early and stick to it. It's extremely d
 URLS after you already have several consumers using them.
 
 
+## Git Cheat Sheet
 Here is the git cheat sheet if you guys need it.
 You can also use GitDesktop which is simpler to use.
 
