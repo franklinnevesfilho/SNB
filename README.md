@@ -14,7 +14,7 @@ Frontend:
 *  [ ] HTTP requests
 *  [ ] Bootstrap framework / Tailwind
 
-##Endpoint Naming 
+## Endpoint Naming 
 * 1 Use clear URL names that establish what resource the service represents - Having a canonical 
 format for defining URLs will help your API feel more intuitive  and easier to use. Be consistent 
 in your naming conventions.
