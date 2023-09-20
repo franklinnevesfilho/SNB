@@ -1,0 +1,3 @@
+[submodule "SNB-Backend"]
+	path = SNB-Backend
+	url = https://github.com/franklinnevesfilho/SNB-Backend.git
