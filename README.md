@@ -10,45 +10,27 @@ A web application for students to be able to sell old &amp; new items (such as t
   - SNB_Backend/
     - Spring Boot app
   - Documents/
-    - Diagrams/
-      - All diagrams
-    - UseCase/
-      - All Use case docs
-    - Deliverable/
-      - All Deliverables completed.
+    - Environment variables .txt
+    - All Deliverables completed.
 
 
-## Basics to know before development:
+## Basics to know about the application:
 
-Backend:
-*  [ ] Knowledge of Java and the Springboot framework
-*  [ ] Understand mySQL and know how to write basic queries
-*  [ ] Database Normalization ( This is the concept of how to structure a relational database )
+#### Backend:
+  To setup the backend, you need to first configure the environment variables before running. Under the documents folder, there is a .txt file labeled 'envVariables', listing all the environment vairables needed to be defined before starting the application.
 
-Frontend:
-*  [ ] Knowledge of HTML JS and CSS
-*  [ ] Understanding of Next.js and the React framework
-*  [ ] HTTP requests
-*  [ ] Bootstrap framework / Tailwind
+  you will need:
+    - a gmail account
+    - A mySQL database running
+  
+  If running the application via IntelliJ this is what needs to be done:
 
-## Endpoint Naming 
-* 1 - Use clear URL names that establish what resource the service represents - Having a canonical 
-format for defining URLs will help your API feel more intuitive  and easier to use. Be consistent 
-in your naming conventions.
-* 2 - Use the URL to establish relationships between resources Oftentimes you'll have a parent-child 
-relationship between resources within your microservices where the child doesn't exist outside the 
-context of the parent (hence you might not have a separate microservice for the child). Use the URLs 
-to express these relationships. But if you find that your URLs tend to be excessively long and nested, 
-your microservice may be trying to do too much.
-* 3 - Establish a versioning scheme for URLS early —The URL and its corresponding endpoints represent a contract 
-between the service owner and consumer of the service. One common pattern is to prepend all endpoints with a version 
-number. Establish your versioning scheme early and stick to it. It's extremely difficult to retrofit versioning to 
-URLS after you already have several consumers using them.
+  - go to: run > edit configurations
+  - Create a configuration, if not present, and add the value of the variables in the Environment variables 
+  <img src="https://i.imgur.com/rTpQrf0.gif" alt="Environment Variables"/>
 
+#### Frontend:
+  To run the react application, you must go to the terminal and type: npm run dev
+  Ensure you have node installed on the device and it is included in the Environment Vairables of the computer.
 
-## Git Cheat Sheet
-Here is the git cheat sheet if you guys need it.
-You can also use GitDesktop which is simpler to use.
-
-![Screenshot 2023-08-24 235807](https://github.com/franklinnevesfilho/SNB/assets/88294924/cfb15a9b-a026-4295-bb9c-dd763cf1b496)
-![Screenshot 2023-08-24 235825](https://github.com/franklinnevesfilho/SNB/assets/88294924/511f2546-c9eb-45ff-b825-9d15336279f1)
+  <img src="https://i.imgur.com/a/zJeWqKI" alt="Running react-app"/>
