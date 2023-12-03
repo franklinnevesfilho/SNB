@@ -33,4 +33,4 @@ A web application for students to be able to sell old &amp; new items (such as t
   To run the react application, you must go to the terminal and type: npm run dev
   Ensure you have node installed on the device and it is included in the Environment Vairables of the computer.
 
-  <img src="https://i.imgur.com/a/zJeWqKI" alt="Running react-app"/>
+  <img src="https://i.imgur.com/a/zJeWqKI.gif" alt="Running react-app"/>
